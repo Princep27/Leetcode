@@ -18,7 +18,6 @@ public:
             }
             if(mini_two2 != INT_MAX) ans = max(ans, sum - mini_two1 - mini_two2);
             if(mini_one != INT_MAX) ans = max(ans, sum - mini_one);
-            cout<<mini_two1<<" "<<mini_two2<<" "<<mini_one<<endl;
         }else{
             int mini_one1 = INT_MAX, mini_one2 = INT_MAX,mini_two = INT_MAX;
             for(auto it: nums){
