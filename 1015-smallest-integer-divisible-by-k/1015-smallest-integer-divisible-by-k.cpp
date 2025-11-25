@@ -1,18 +1,19 @@
 class Solution {
 public:
     int smallestRepunitDivByK(int k) {
-        unordered_set<int> st; st.insert(1);
-        int rem = 1,ans = 1;
-        if(k == 1) return 1;
-    
-        while(rem){
+        int rem = 0,ans = 0;
+
+        //reminders will be between 0 to k-1 when divided by k
+        //it means there will be atleat one case when reminder will be zero
+        //when cheacking for k times
+
+        for(int i=1;i<=k;++i){
             rem = (rem*10 + 1)%k;
-            if(st.count(rem)) return -1;
-            st.insert(rem);
             ++ans;
+            if(rem == 0) return ans;
         }
 
-        return ans;
+        return -1;
 
     }
 };
