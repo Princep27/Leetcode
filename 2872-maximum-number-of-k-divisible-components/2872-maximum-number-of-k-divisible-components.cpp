@@ -2,25 +2,18 @@ class Solution {
 public:
 
     long long dfs(int index,vector<bool> &vis,vector<vector<int>> &adj,vector<int> &values,int &cnt,int k){
-        long long sum = 0; bool found = false;
+        long long sum = values[index];
         for(auto it: adj[index]){
             if(!vis[it]){
-                vis[it] = true; found = true;
+                vis[it] = true; 
                 sum += dfs(it,vis,adj,values,cnt,k);
             }
         }
 
-        if(found){
-            if((sum+(long long)values[index])%k == 0){
-                ++cnt; return (long long)0;
-            }else{
-                return sum + (long long)values[index];
-            }
+        if(sum%k == 0){
+            ++cnt; return 0;
         }else{
-            if(values[index]%k == 0){
-                ++cnt; return (long long)0;
-            }
-            else return values[index];
+            return sum;
         }
     }
 
