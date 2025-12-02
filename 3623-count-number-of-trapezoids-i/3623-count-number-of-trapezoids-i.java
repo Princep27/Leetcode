@@ -2,7 +2,7 @@ class Solution {
     public int countTrapezoids(int[][] points) {
         long ans = 0,prev = 0,mod = 1000000007;
         int n = points.length;
-        TreeMap<Integer,Long> mp = new TreeMap<>();
+        HashMap<Integer,Long> mp = new HashMap<>();
         for(int i=0;i<n;++i){
             int y = points[i][1]; 
             long cnt = mp.getOrDefault(y,(long)0);
