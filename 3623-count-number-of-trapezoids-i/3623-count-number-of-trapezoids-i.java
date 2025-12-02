@@ -4,16 +4,16 @@ class Solution {
         int n = points.length;
         TreeMap<Integer,Long> mp = new TreeMap<>();
         for(int i=0;i<n;++i){
-            int x = points[i][0], y = points[i][1]; long cnt = 0;
-            if(mp.containsKey(y)) cnt = mp.get(y);
+            int y = points[i][1]; 
+            long cnt = mp.getOrDefault(y,(long)0);
             mp.put(y,cnt+1);
         }
 
         for(Integer key : mp.keySet()){
             long value = mp.get(key);
             long pairs = (value*(value-1))/2;
-            ans += pairs*prev; ans %= mod;
-            prev += pairs; prev %= mod;
+            ans = (ans + pairs*prev)%mod;
+            prev = (prev + pairs)%mod; 
         }
 
         return (int)ans;
