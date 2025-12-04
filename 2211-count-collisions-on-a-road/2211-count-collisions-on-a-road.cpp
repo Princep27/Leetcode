@@ -12,24 +12,17 @@ public:
                     ++ans;
                     while(!st.empty() && st.top() == 'R'){
                         st.pop(); ++ans;
-                    }
-                    st.push('S');
+                    } st.push('S');
                 }else{
                     st.push('L');
                 } 
             }else if(d == 'R'){
                 if(st.empty()) st.push('R');
-                else if(st.top() == 'R') st.push('R');
-                else if(st.top() == 'L'){
-                    st.push('R');
-                }else{
-                    st.push('R');
-                }
+                else st.push('R');
             }else{
                 while(!st.empty() && st.top() == 'R'){
                     ++ans; st.pop();
-                }
-                st.push('S');
+                } st.push('S');
             }
         }
 
