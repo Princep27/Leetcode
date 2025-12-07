@@ -1,28 +1,24 @@
 class Solution {
 public:
-    static int countPartitions(vector<int>& nums, int k) {
+    int countPartitions(vector<int>& nums, int k) {
         int n = nums.size();
-        const int MOD = 1e9 + 7;
+        long long mod = 1e9 + 7;
+        vector<long long> dp(n + 1);
+        vector<long long> prefix(n + 1);
+        multiset<int> cnt;
+        dp[0] = 1;
+        prefix[0] = 1;
+        for (int i = 0, j = 0; i < nums.size(); i++) {
+            cnt.insert(nums[i]);
 
-        multiset<int> win;
-        long long cnt = 0;
-
-        vector<int> sum(n + 2, 0);
-        sum[1] = 1;
-
-        for (int left = 0, right = 0; right < n; ++right) {
-            win.insert(nums[right]);
-
-            while (*(prev(win.end())) - *win.begin() > k) {
-                win.erase(win.lower_bound(nums[left]));
-                ++left;
+            while (j <= i && *cnt.rbegin() - *cnt.begin() > k) {
+                cnt.erase(cnt.find(nums[j]));
+                j++;
             }
-
-            cnt = (MOD + sum[right + 1] - sum[left]) % MOD;
-            sum[right + 2] = (sum[right + 1] + cnt) % MOD;
+            
+            dp[i + 1] = (prefix[i] - (j > 0 ? prefix[j - 1] : 0) + mod) % mod;
+            prefix[i + 1] = (prefix[i] + dp[i + 1]) % mod;
         }
-
-        return cnt;
+        return dp[n];
     }
 };
-
