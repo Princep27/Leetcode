@@ -2,7 +2,7 @@ class Solution {
 public:
     long long maxProfit(vector<int>& prices, vector<int>& strategy, int k) {
         long long ans = 0,str = 0, sum = 0;
-        for(int i=0;i<prices.size();++i) sum += (prices[i]*strategy[i]);
+        for(int i=0;i<prices.size();++i) sum += (long long)(prices[i]*strategy[i]);
         ans = sum;
 
         for(int i=0;i<prices.size();++i){
@@ -25,7 +25,6 @@ public:
                 sum += (long long)(strategy[i-k]*prices[i-k]);
 
                 ans = max(ans,sum+str);
-
             }
         }
 
