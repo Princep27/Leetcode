@@ -17,7 +17,7 @@ public:
             if(col == m) return cnt;
             for(int i=0;i<rows.size();++i){
                 int row = rows[i];
-                if(strs[row][col] == strs[row-1][col] && col != m-1){
+                if(strs[row][col] == strs[row-1][col]){
                     rem_rows.push_back(row);
                 }else if(strs[row][col] < strs[row-1][col]){
                     ++cnt; rem_rows = rows; 
