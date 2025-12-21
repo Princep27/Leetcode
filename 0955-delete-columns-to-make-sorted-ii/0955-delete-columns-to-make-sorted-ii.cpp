@@ -17,7 +17,6 @@ public:
             if(col == m) return cnt;
             for(int i=0;i<rows.size();++i){
                 int row = rows[i];
-                cout<<row<<" ";
                 if(strs[row][col] == strs[row-1][col] && col != m-1){
                     rem_rows.push_back(row);
                 }else if(strs[row][col] < strs[row-1][col]){
@@ -25,10 +24,6 @@ public:
                     break;
                 }
             }
-
-            cout<<endl;
-            for(auto it : rem_rows) cout<<it<<" "; cout<<endl<<endl;
-
 
             if(rem_rows.size() == 0){
                 return cnt;
