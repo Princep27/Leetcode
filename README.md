@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Princep27/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Princep27/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Princep27/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Princep27/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Princep27/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Princep27/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Princep27/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Princep27/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
 |  |
