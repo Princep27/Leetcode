@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Princep27/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Princep27/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princep27/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1390-four-divisors](https://github.com/Princep27/Leetcode/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/Princep27/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Princep27/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Princep27/Leetcode/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/Princep27/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Princep27/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Princep27/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Princep27/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
