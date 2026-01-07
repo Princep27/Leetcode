@@ -27,7 +27,7 @@ class Solution {
         long curSum = node.val + findMaxProd(total,node.right,level+1) + findMaxProd(total,node.left,level+1);
         if(level != 0){
             ans = Math.max(ans, (total - curSum)*curSum);
-            System.out.println((total - curSum)*curSum);
+           
         }
         return curSum;
     }
@@ -37,7 +37,6 @@ class Solution {
         ans = Long.MIN_VALUE;
         total = findSum(root);
         findMaxProd(total,root,0);
-        System.out.println(total);
         return (int)(ans%1000000007);
     }
 }
