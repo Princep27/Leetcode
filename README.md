@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Princep27/Leetcode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Princep27/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Princep27/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Princep27/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Princep27/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Princep27/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Princep27/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Princep27/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Princep27/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Princep27/Leetcode/tree/master/0085-maximal-rectangle) |
 | [2211-count-collisions-on-a-road](https://github.com/Princep27/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Princep27/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Princep27/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Princep27/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Princep27/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
