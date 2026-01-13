@@ -19,7 +19,7 @@ class Solution {
         for(int i=0;i<n;++i) total += (long)squares[i][2]*(long)squares[i][2];
         total /= 2;
         
-        while(right - left >= 0.000001){
+        while(right - left >= 0.00001){
             double mid = (left + right)/2;
             double area = find(squares,mid);
 
