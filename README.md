@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Princep27/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Princep27/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Princep27/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Princep27/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Princep27/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Princep27/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Princep27/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Princep27/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/Princep27/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/Princep27/Leetcode/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Princep27/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Princep27/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -272,8 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Princep27/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Princep27/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Princep27/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Princep27/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
