@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Princep27/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Princep27/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Princep27/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Princep27/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Princep27/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Princep27/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Princep27/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/Princep27/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Princep27/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3583-count-special-triplets](https://github.com/Princep27/Leetcode/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Princep27/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Princep27/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Princep27/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Princep27/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
 | ------- |
