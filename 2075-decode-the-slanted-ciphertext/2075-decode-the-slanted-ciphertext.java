@@ -1,14 +1,16 @@
 class Solution {
     public String decodeCiphertext(String encodedText, int rows) {
-        StringBuilder ans = new StringBuilder("");
+        StringBuilder ans = new StringBuilder();
 
         int row = 0, col = 0, n = rows, m = (encodedText.length() + 1)/rows;
         while(col < m){
-            int i = row, j = col;
-            while((i*m + j) < encodedText.length()){
-                ans.append(encodedText.charAt(i*m + j));
-                ++i; ++j;
+            int pos = row*m + col;
+
+            while((pos) < encodedText.length()){
+                ans.append(encodedText.charAt(pos));
+                pos += m + 1;
             }
+
             ++col;
         }
 
