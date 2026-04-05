@@ -2,9 +2,9 @@ class Solution {
     public String decodeCiphertext(String encodedText, int rows) {
         StringBuilder ans = new StringBuilder(encodedText.length());
 
-        int row = 0, col = 0, n = rows, m = (encodedText.length() + 1)/rows;
+        int col = 0, n = rows, m = (encodedText.length() + 1)/rows;
         while(col < m){
-            int pos = row*m + col;
+            int pos = col;
 
             while((pos) < encodedText.length()){
                 ans.append(encodedText.charAt(pos));
