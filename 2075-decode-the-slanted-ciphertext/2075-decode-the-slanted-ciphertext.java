@@ -1,6 +1,6 @@
 class Solution {
     public String decodeCiphertext(String encodedText, int rows) {
-        StringBuilder ans = new StringBuilder();
+        StringBuilder ans = new StringBuilder(encodedText.length());
 
         int row = 0, col = 0, n = rows, m = (encodedText.length() + 1)/rows;
         while(col < m){
