@@ -14,12 +14,11 @@ class Solution {
             ++col;
         }
 
-        int len = ans.length();
-        while(len > 0 && ans.charAt(len-1) == ' '){
-            ans.deleteCharAt(len-1);
-            --len;
+        int end = ans.length() - 1;
+        while (end >= 0 && ans.charAt(end) == ' ') {
+            end--;
         }
         
-        return ans.toString();
+        return ans.substring(0, end + 1);
     }
 }
