@@ -26,20 +26,11 @@ class Solution {
     public boolean containsCycle(char[][] grid) {
         int n = grid.length, m = grid[0].length;
         boolean[][] vis = new boolean[n][m];
-
-        for(int i=0;i<n;++i){
-            for(int j=0;j<m;++j){
-                System.out.print(grid[i][j] + " ");
-            }
-            System.out.println();
-        }
-        
         for(int i=0;i<n;++i){
             for(int j=0;j<m;++j){
 
                 if(!vis[i][j]){
                     if(check(grid,vis,i,j,-1,-1,n,m)){
-                        System.out.print(i + " " +j +  grid[i][j]);
                         return true;
                     }
                 }
