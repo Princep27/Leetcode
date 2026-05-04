@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Princep27/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Princep27/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Princep27/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Princep27/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Princep27/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Princep27/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Princep27/Leetcode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Princep27/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Princep27/Leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Princep27/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Princep27/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
