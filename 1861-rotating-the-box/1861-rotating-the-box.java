@@ -31,15 +31,7 @@ class Solution {
         char[][] ans = new char[m][n];
         for(int i=0;i<m;++i){
             for(int j=0;j<n;++j){
-                ans[i][j] = boxGrid[j][i];
-            }
-        }
-
-        for(int i=0;i<m;++i){
-            for(int j=0;j<n/2;++j){
-                char tmp = ans[i][j];
-                ans[i][j] = ans[i][n-1-j];
-                ans[i][n-1-j] = tmp;
+                ans[i][n-1-j] = boxGrid[j][i];
             }
         }
 
