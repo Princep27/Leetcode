@@ -4,8 +4,8 @@ class Solution {
         long ans = 0;
         int mod = 1000000007;
 
-        TreeMap<Integer,Integer> left = new TreeMap<>();
-        TreeMap<Integer,Integer> right = new TreeMap<>();
+        HashMap<Integer,Integer> left = new HashMap<>();
+        HashMap<Integer,Integer> right = new HashMap<>();
 
         for(int i=2;i<n;++i) right.put(nums[i], right.getOrDefault(nums[i],0) + 1);
 
