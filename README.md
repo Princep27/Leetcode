@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Princep27/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Princep27/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Princep27/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2784-check-if-array-is-good](https://github.com/Princep27/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Princep27/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Princep27/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2751-robot-collisions](https://github.com/Princep27/Leetcode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Princep27/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/Princep27/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Princep27/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Princep27/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Princep27/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2751-robot-collisions](https://github.com/Princep27/Leetcode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Princep27/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Princep27/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Princep27/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Princep27/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
