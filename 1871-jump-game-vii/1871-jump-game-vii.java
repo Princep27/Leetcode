@@ -14,14 +14,13 @@ class Solution {
             }else{
                 break;
             }
-            
+
         }
 
     }
 
     public boolean canReach(String s, int minJump, int maxJump) {
         int n = s.length();
-        List<Integer> arr = new ArrayList<>();
         if(s.charAt(n-1) == '1') return false;
         TreeSet<Integer> st = new TreeSet<>();
 
