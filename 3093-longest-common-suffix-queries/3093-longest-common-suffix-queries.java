@@ -5,8 +5,7 @@ class Solution {
         int len;
         int ansIndex;
         Trie(){
-            for(int i=0;i<26;++i) next[i] = null;
-            len = 10000;
+            len = Integer.MAX_VALUE;
             ansIndex = -1;
         }
     }
