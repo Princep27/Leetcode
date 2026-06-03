@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Princep27/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Princep27/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Princep27/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Princep27/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Princep27/Leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Princep27/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Princep27/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Princep27/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Princep27/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Princep27/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Princep27/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Princep27/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Princep27/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Princep27/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/Princep27/Leetcode/tree/master/3453-separate-squares-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Princep27/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Princep27/Leetcode/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/Princep27/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Princep27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Princep27/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Princep27/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
 |  |
