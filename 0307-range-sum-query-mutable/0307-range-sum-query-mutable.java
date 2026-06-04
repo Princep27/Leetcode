@@ -1,7 +1,7 @@
 class NumArray {
 
-    int[] seg;
-    int len;
+    private final int[] seg;
+    private final int len;
 
     private void build(int[] nums,int l,int r,int t_index){
         if(l == r)
