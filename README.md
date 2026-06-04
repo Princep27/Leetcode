@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Princep27/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Princep27/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Princep27/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0307-range-sum-query-mutable](https://github.com/Princep27/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Princep27/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Princep27/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Princep27/Leetcode/tree/master/0190-reverse-bits) |
+| [0307-range-sum-query-mutable](https://github.com/Princep27/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1382-balance-a-binary-search-tree](https://github.com/Princep27/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Princep27/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Princep27/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/Princep27/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
@@ -483,4 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Princep27/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Princep27/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Princep27/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Princep27/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
