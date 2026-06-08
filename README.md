@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Princep27/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Princep27/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Princep27/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Princep27/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Princep27/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princep27/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Princep27/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Princep27/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Princep27/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/Princep27/Leetcode/tree/master/3453-separate-squares-i) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1871-jump-game-vii](https://github.com/Princep27/Leetcode/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Princep27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Princep27/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -470,10 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Princep27/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Princep27/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Recursion
 |  |
@@ -498,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Princep27/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
