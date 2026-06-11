@@ -22,8 +22,10 @@ class Solution {
         build(arr, l, mid, i * 2 + 1);
         build(arr, mid + 1, r, i * 2 + 2);
 
-        seg[i].mini =  Math.min(seg[i * 2 + 1].mini, seg[i * 2 + 2].mini);
-        seg[i].maxi =  Math.max(seg[i * 2 + 1].maxi, seg[i * 2 + 2].maxi);
+        seg[i] = new SegNode(
+            Math.min(seg[i * 2 + 1].mini, seg[i * 2 + 2].mini),
+            Math.max(seg[i * 2 + 1].maxi, seg[i * 2 + 2].maxi)
+        );
     }
 
     private SegNode query(int ql, int qr, int l, int r, int i) {
@@ -60,7 +62,6 @@ class Solution {
         int n = nums.length;
 
         seg = new SegNode[4 * n];
-        for(int i=0;i<4*n;++i) seg[i] = new SegNode(Integer.MAX_VALUE,Integer.MIN_VALUE);
         build(nums, 0, n - 1, 0);
 
         PriorityQueue<Node> pq = new PriorityQueue<>((a, b) -> b.diff - a.diff);
