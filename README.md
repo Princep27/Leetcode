@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Princep27/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Princep27/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Princep27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Princep27/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2751-robot-collisions](https://github.com/Princep27/Leetcode/tree/master/2751-robot-collisions) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Princep27/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Princep27/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Princep27/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Princep27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/Princep27/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/Princep27/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Princep27/Leetcode/tree/master/2751-robot-collisions) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Princep27/Leetcode/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/Princep27/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Princep27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Princep27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Princep27/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Princep27/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
