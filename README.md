@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Princep27/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Princep27/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0307-range-sum-query-mutable](https://github.com/Princep27/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0486-predict-the-winner](https://github.com/Princep27/Leetcode/tree/master/0486-predict-the-winner) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Princep27/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Princep27/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Princep27/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Princep27/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Princep27/Leetcode/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/Princep27/Leetcode/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Princep27/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Princep27/Leetcode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Princep27/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Princep27/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0486-predict-the-winner](https://github.com/Princep27/Leetcode/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Princep27/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Princep27/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Princep27/Leetcode/tree/master/0799-champagne-tower) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Princep27/Leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princep27/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union-Find
 |  |
@@ -535,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Princep27/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Princep27/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
