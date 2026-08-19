@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Princep27/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Princep27/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Princep27/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Princep27/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Princep27/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Princep27/Leetcode/tree/master/3583-count-special-triplets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Princep27/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Princep27/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Princep27/Leetcode/tree/master/3453-separate-squares-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Princep27/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Princep27/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Princep27/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
