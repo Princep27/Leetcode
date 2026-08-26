@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Princep27/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/Princep27/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Princep27/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Princep27/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Princep27/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Princep27/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Princep27/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1871-jump-game-vii](https://github.com/Princep27/Leetcode/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Princep27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Princep27/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Princep27/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Princep27/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Princep27/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
