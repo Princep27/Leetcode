@@ -2,7 +2,7 @@ class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
         int n = knowledge.size(), m = s.length();
         StringBuilder ans = new StringBuilder();
-        TreeMap<String,String> mp = new TreeMap<>();
+        HashMap<String,String> mp = new HashMap<>();
         for(int i=0;i<n;++i){
             mp.put(knowledge.get(i).get(0),knowledge.get(i).get(1));
         }
