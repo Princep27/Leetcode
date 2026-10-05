@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Princep27/Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Princep27/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Princep27/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0856-score-of-parentheses](https://github.com/Princep27/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Princep27/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Princep27/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Princep27/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Princep27/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0856-score-of-parentheses](https://github.com/Princep27/Leetcode/tree/master/0856-score-of-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/Princep27/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/Princep27/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Princep27/Leetcode/tree/master/2751-robot-collisions) |
@@ -609,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Princep27/Leetcode/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Princep27/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
