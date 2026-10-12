@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Princep27/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Princep27/Leetcode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Princep27/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1463-cherry-pickup-ii](https://github.com/Princep27/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Princep27/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/Princep27/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princep27/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Princep27/Leetcode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Princep27/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Princep27/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1463-cherry-pickup-ii](https://github.com/Princep27/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Princep27/Leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/Princep27/Leetcode/tree/master/1871-jump-game-vii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Princep27/Leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Princep27/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1463-cherry-pickup-ii](https://github.com/Princep27/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Princep27/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Princep27/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Princep27/Leetcode/tree/master/1861-rotating-the-box) |
