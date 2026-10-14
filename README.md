@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Princep27/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/Princep27/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Princep27/Leetcode/tree/master/0494-target-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Princep27/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Princep27/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/Princep27/Leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Princep27/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Princep27/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Princep27/Leetcode/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Princep27/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Princep27/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0788-rotated-digits](https://github.com/Princep27/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Princep27/Leetcode/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Princep27/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Princep27/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Princep27/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Princep27/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Princep27/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princep27/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Princep27/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princep27/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Princep27/Leetcode/tree/master/1871-jump-game-vii) |
@@ -569,11 +573,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Princep27/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Princep27/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Princep27/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Princep27/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Recursion
