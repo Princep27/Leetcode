@@ -29,8 +29,6 @@ public:
                 end1 = tmpend1;
                 end2 = tmpend2;
             }
-
-            cout<<end1<<" "<<end2<<endl;
         }
         
         if(invalid) return 0;
