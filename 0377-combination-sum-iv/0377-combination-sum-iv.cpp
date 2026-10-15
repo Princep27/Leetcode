@@ -14,24 +14,16 @@ public:
     int combinationSum4(vector<int>& nums, int target) {
         int n = nums.size();
        
-        vector<int> dp(target+1,-1);
-        return solve(dp,nums,target);
+        // vector<int> dp(target+1,-1);
+        // return solve(dp,nums,target);
 
-        // memset(dp,0,sizeof(dp));
-
-        // for(int i=0;i<=n;++i) dp[0][i] = 1;
-
-        // for(int sum=1;sum<=target;++sum){
-        //     for(int len=1;len<=n;++len){
-        //         //take
-        //         if(sum >= nums[len-1])
-        //             dp[sum][len] += dp[sum-nums[len-1]][len];
-                
-        //         //not take
-        //         dp[sum][len] += dp[sum][len-1]; 
-        //     }
-        // }
-
-        //return dp[target][n];
+        vector<unsigned int> dp(target+1,0);
+        dp[0] = 1;
+        for(int i=1;i<=target;++i){
+            for(int j=1;j<=n;++j){
+                if(nums[j-1] <= i) dp[i] += dp[i-nums[j-1]];
+            }
+        }
+        return (int)dp[target];
     }
 };
