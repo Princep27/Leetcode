@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Princep27/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Princep27/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Princep27/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0978-longest-turbulent-subarray](https://github.com/Princep27/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Princep27/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-last-stone-weight-ii](https://github.com/Princep27/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Princep27/Leetcode/tree/master/1140-stone-game-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Princep27/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Princep27/Leetcode/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Princep27/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0978-longest-turbulent-subarray](https://github.com/Princep27/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/Princep27/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Princep27/Leetcode/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princep27/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Princep27/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/Princep27/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princep27/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Princep27/Leetcode/tree/master/1871-jump-game-vii) |
