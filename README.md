@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Princep27/Leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Princep27/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Princep27/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Princep27/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Princep27/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Princep27/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Princep27/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Princep27/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Princep27/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Princep27/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Princep27/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Princep27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Princep27/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Princep27/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1044-longest-duplicate-substring](https://github.com/Princep27/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princep27/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Princep27/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/Princep27/Leetcode/tree/master/3453-separate-squares-i) |
