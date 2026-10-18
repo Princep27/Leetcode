@@ -29,7 +29,6 @@ public:
 
             sum = rightsum + leftsum;
 
-            cout<<l<<" "<<mid<<" "<<r<<" "<<leftsum<<" "<<rightsum<<endl;
             if(sum <= 1LL*maxSum){
                 ans = mid;
                 l = mid+1;
