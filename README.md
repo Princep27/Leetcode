@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Princep27/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Princep27/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Princep27/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Princep27/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/Princep27/Leetcode/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Princep27/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Princep27/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Princep27/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Princep27/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Princep27/Leetcode/tree/master/1306-jump-game-iii) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Princep27/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/Princep27/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Princep27/Leetcode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Princep27/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Princep27/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Princep27/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princep27/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Princep27/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/Princep27/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Princep27/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Princep27/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princep27/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Princep27/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Princep27/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/Princep27/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Princep27/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Princep27/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/Princep27/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Princep27/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Princep27/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
