@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Princep27/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Princep27/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Princep27/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Princep27/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Princep27/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Princep27/Leetcode/tree/master/1345-jump-game-iv) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Princep27/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [3310-remove-methods-from-project](https://github.com/Princep27/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
