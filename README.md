@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Princep27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Princep27/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Princep27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Princep27/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Princep27/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Princep27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Princep27/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Princep27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Princep27/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2751-robot-collisions](https://github.com/Princep27/Leetcode/tree/master/2751-robot-collisions) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princep27/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Princep27/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Princep27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Princep27/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/Princep27/Leetcode/tree/master/3453-separate-squares-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Princep27/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
