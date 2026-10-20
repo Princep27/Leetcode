@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Princep27/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Princep27/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Princep27/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1462-course-schedule-iv](https://github.com/Princep27/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Princep27/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Princep27/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Princep27/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Princep27/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Princep27/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Princep27/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1462-course-schedule-iv](https://github.com/Princep27/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Princep27/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3310-remove-methods-from-project](https://github.com/Princep27/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princep27/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Princep27/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1462-course-schedule-iv](https://github.com/Princep27/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Princep27/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3310-remove-methods-from-project](https://github.com/Princep27/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Minimax
@@ -740,4 +743,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Princep27/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Topological Sort
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/Princep27/Leetcode/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->
