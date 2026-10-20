@@ -23,6 +23,8 @@ public:
 
             if(curweg > distance[u][stops]) continue;
 
+            if(u == dst) return curweg;
+
             for(auto [v,nextweg] : adj[u]){
                 if(stops < k+1 && (nextweg + curweg < distance[v][stops+1])){
                     distance[v][stops+1] = nextweg + curweg;
@@ -35,7 +37,7 @@ public:
         for(int i=0;i<=k+1;++i){
             ans = min(ans, distance[dst][i]);
         }
-        
+
         return ans != INT_MAX/2 ? ans : -1;
     }
 };
