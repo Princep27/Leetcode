@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Princep27/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Princep27/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Princep27/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Princep27/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1980-find-unique-binary-string](https://github.com/Princep27/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Princep27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Princep27/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Princep27/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Princep27/Leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/Princep27/Leetcode/tree/master/1871-jump-game-vii) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Princep27/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/Princep27/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Princep27/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Princep27/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princep27/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Princep27/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Princep27/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3310-remove-methods-from-project](https://github.com/Princep27/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
@@ -733,4 +736,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princep27/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Princep27/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
