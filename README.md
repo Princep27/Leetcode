@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Princep27/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Princep27/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Princep27/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Princep27/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Princep27/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/Princep27/Leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Princep27/Leetcode/tree/master/1009-complement-of-base-10-integer) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princep27/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Princep27/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Princep27/Leetcode/tree/master/0799-champagne-tower) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Princep27/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Princep27/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0978-longest-turbulent-subarray](https://github.com/Princep27/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/Princep27/Leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Princep27/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princep27/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Princep27/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Princep27/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Princep27/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Princep27/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princep27/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Princep27/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Princep27/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1462-course-schedule-iv](https://github.com/Princep27/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Princep27/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -751,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/Princep27/Leetcode/tree/master/1462-course-schedule-iv) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Princep27/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
