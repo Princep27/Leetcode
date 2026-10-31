@@ -767,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Princep27/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1070-product-sales-analysis-iii](https://github.com/Princep27/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
