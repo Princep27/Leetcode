@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Princep27/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Princep27/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Princep27/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1164-product-price-at-a-given-date](https://github.com/Princep27/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/Princep27/Leetcode/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/Princep27/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Princep27/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
