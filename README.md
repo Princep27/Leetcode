@@ -778,5 +778,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Princep27/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1280-students-and-examinations](https://github.com/Princep27/Leetcode/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/Princep27/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Princep27/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1934-confirmation-rate](https://github.com/Princep27/Leetcode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
