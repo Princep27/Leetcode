@@ -773,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Princep27/Leetcode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Princep27/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Princep27/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0610-triangle-judgement](https://github.com/Princep27/Leetcode/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/Princep27/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Princep27/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Princep27/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
