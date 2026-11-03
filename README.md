@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/Princep27/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Princep27/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/Princep27/Leetcode/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Princep27/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/Princep27/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1661-average-time-of-process-per-machine](https://github.com/Princep27/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/Princep27/Leetcode/tree/master/1667-fix-names-in-a-table) |
